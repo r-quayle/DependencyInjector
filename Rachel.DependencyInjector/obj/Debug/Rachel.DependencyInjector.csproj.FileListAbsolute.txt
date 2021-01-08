@@ -1,0 +1,5 @@
+C:\Users\r_quayle\source\repos\Rachel.ConsoleApp\Rachel.DependencyInjector\bin\Debug\Rachel.DependencyInjector.dll
+C:\Users\r_quayle\source\repos\Rachel.ConsoleApp\Rachel.DependencyInjector\bin\Debug\Rachel.DependencyInjector.pdb
+C:\Users\r_quayle\source\repos\Rachel.ConsoleApp\Rachel.DependencyInjector\obj\Debug\Rachel.DependencyInjector.csprojAssemblyReference.cache
+C:\Users\r_quayle\source\repos\Rachel.ConsoleApp\Rachel.DependencyInjector\obj\Debug\Rachel.DependencyInjector.dll
+C:\Users\r_quayle\source\repos\Rachel.ConsoleApp\Rachel.DependencyInjector\obj\Debug\Rachel.DependencyInjector.pdb
